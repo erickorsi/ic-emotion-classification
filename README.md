@@ -10,7 +10,7 @@ Supervisor: Dr. João Henrique Ranhel Ribeiro.
 
 It is important to note that this project was developed in 2019-2020 and possibly may not be repeated today in the same method.
 
-The full report in portuguese can be found in the repo, along with codes. This is just a simplified explanation.
+The full report in portuguese can be found in the repo. This is just a simplified explanation.
 
 ## Objective
 
